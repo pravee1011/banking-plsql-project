@@ -31,13 +31,13 @@ It covers core banking operations such as account management, transactions, loan
 
 ## 📂 Project Structure
 
-01_tables.sql -- Database tables
-02_inserts.sql -- Actual Data
-03_packages.sql -- Business logic packages
-04_triggers.sql -- Data integrity and fraud detection
-05_views.sql -- Reporting views
-06_summarytable_etlproc.sql -- Daily summary ETL procedures
-07_sequence_indexes.sql - Sequences and Indexes used
+- 01_tables.sql -- Database tables
+- 02_inserts.sql -- Actual Data
+- 03_packages.sql -- Business logic packages
+- 04_triggers.sql -- Data integrity and fraud detection
+- 05_views.sql -- Reporting views
+- 06_summarytable_etlproc.sql -- Daily summary ETL procedures
+- 07_sequence_indexes.sql - Sequences and Indexes used
 
 ---
 
