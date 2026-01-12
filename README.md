@@ -44,11 +44,12 @@ It covers core banking operations such as account management, transactions, loan
 ## 🚀 How to Run the Project
 
 1. Run `01_tables.sql`
-2. Run `02_sequences.sql`
-3. Compile `03_packages.sql`
-4. Compile `04_triggers.sql`
-5. Create views using `05_views.sql`
-6. Run ETL using `06_etl.sql`
+2. Run `02_inserts.sql`
+3. Run `07_sequence_indexes.sql`
+4. Compile `03_packages.sql`
+5. Compile `04_triggers.sql`
+6. Create views using `05_views.sql`
+7. Run ETL using `06_summarytable_etlproc`
 
 ---
 
