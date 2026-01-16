@@ -1,4 +1,4 @@
-# 🏦 Banking System using Oracle PL/SQL
+# Banking System using Oracle PL/SQL
 
 This project demonstrates a real-world banking system implemented using Oracle SQL and PL/SQL.
 
@@ -6,7 +6,7 @@ It covers core banking operations such as account management, transactions, loan
 
 ---
 
-## 📌 Features
+## Features
 
 - Open and close bank accounts
 - Deposit, withdraw, and transfer funds
@@ -18,7 +18,7 @@ It covers core banking operations such as account management, transactions, loan
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Oracle SQL
 - Oracle PL/SQL
@@ -29,7 +29,7 @@ It covers core banking operations such as account management, transactions, loan
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - 01_tables.sql -- Database tables
 - 02_inserts.sql -- Actual Data
@@ -53,7 +53,7 @@ It covers core banking operations such as account management, transactions, loan
 
 ---
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 This project was built to demonstrate enterprise-level PL/SQL design concepts such as:
 
