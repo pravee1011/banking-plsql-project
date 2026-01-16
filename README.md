@@ -41,7 +41,7 @@ It covers core banking operations such as account management, transactions, loan
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Run `01_tables.sql`
 2. Run `02_inserts.sql`
@@ -65,7 +65,7 @@ This project was built to demonstrate enterprise-level PL/SQL design concepts su
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Praveena G**  
 Oracle PL/SQL Developer
